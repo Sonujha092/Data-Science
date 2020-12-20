@@ -1,13 +1,11 @@
 # Data-Analysis Using Python
 
-## This is the series of Notebooks
+## This is a series of Data Analysis Notebook
+
 
 | Data | Description|
 |:-----|----------:|
-| [Adult](www.google.com)|description|
-|[Bank Marketting](www.google.com)|description|
-|[Indian Liver Patients](www.google.com)|description|
-|[Car](www.google.com)|description|
-|[Credit Risk ](www.google.com)|description
-|[Titanic](www.google.com)|description|
-|[Fraud Detection](www.google.com)|description|
+| [Adult](https://github.com/skj092/Adult)|Predict whether income exceeds $50K/yr based on census data|
+|[Bank Marketting](https://github.com/skj092/Bank_Marketting)|To predict if the client will subscribe a term deposit|
+|[Indian Liver Patients](https://github.com/skj092/ILDP)|Predict a patient has liver problem or not|
+|[Titanic](https://github.com/skj092/Titanic_Data_Analysis)|Predict survival on the Titanic|
