@@ -1,6 +1,6 @@
 # Data-Analysis Using Python
 
-## This is a series of Data Analysis Notebook
+## Series of Data Analysis Notebook
 
 
 | Data | Description|
