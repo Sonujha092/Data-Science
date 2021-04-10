@@ -7,7 +7,7 @@
 
 || Data | Description|
 |:---|:----|:----|
-|1.| [Adult](https://github.com/skj092/Python_Data-Analysis/blob/master/Adult/adult.ipynb)|Predict whether income exceeds $50K/yr based on census data|
+|1.| [Adult](https://github.com/skj092/Exploratory-data-analysis/blob/master/Adult/EDA.ipynb)|Predict whether income exceeds $50K/yr based on census data|
 |2.|[Bank Marketting](https://github.com/skj092/Python_Data-Analysis/blob/master/BankMarketting/bank.ipynb)|To predict if the client will subscribe a term deposit|
 |3.|[Bikes](https://github.com/skj092/Python_Data-Analysis/blob/master/bikes/bikes.ipynb)|
 |4. |[Black Friday](https://github.com/skj092/Python_Data-Analysis/blob/master/black_friday/black%20friday%20prediction.ipynb)|
